@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mridul Hasan</h1>
 <h3 align="center">Just a kid coding his way out of tutorial hell</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthropogenico" alt="anthropogenico" /></a> </p>
+
 
 - 🔭 I’m currently working on **Write while I sleep blog**
 
