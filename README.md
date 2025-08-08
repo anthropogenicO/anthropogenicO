@@ -3,23 +3,23 @@
 
 
 
-- 🔭 I’m currently working on **Write while I sleep blog**
+-  I’m currently working on **Write while I sleep blog**
 
-- 🌱 I’m currently learning **React and next.js**
+-  I’m currently learning **React and next.js**
 
-- 👯 I’m looking to collaborate on **Anything that helps me grow as a dev — frontend, design, or even memes**
+-  I’m looking to collaborate on **Anything that helps me grow as a dev — frontend, design, or even memes**
 
 - 🤝 I’m looking for help with **a lot of thing tbh**
 
-- 👨‍💻 All of my projects are available at [mridulhasan.pages.dev](mridulhasan.pages.dev)
+-  All of my projects are available at [mridulhasan.pages.dev](mridulhasan.pages.dev)
 
 - 📝 I regularly write articles on [writewhileislepp](writewhileislepp)
 
-- 💬 Ask me about **anything:D**
+-  Ask me about **anything:D**
 
-- 📫 How to reach me **heheo1950@gmail.com**
+-  How to reach me **heheo1950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing](https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing)
+-  Know about my experiences [https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing](https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing)
 
 - ⚡ Fun fact **Iam a Lego**
 
