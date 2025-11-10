@@ -13,7 +13,7 @@
 
 -  All of my projects are available at [mrhio :D](mridul.sopdad.com)
 
-- 📝 I regularly write articles on [writewhileislepp](www.writewhileislepp.vercel.app)
+- 📝 I regularly write articles on [writewhileislepp](https://writewhileisleep.vercel.app)
 
 -  Ask me about **anything:D**
 
