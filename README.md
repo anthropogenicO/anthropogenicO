@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **a lot of thing tbh**
 
--  All of my projects are available at [mridulhasan.pages.dev](mridulhasan.pages.dev)
+-  All of my projects are available at [mrhio :D](mridul.sopdad.com)
 
-- 📝 I regularly write articles on [writewhileislepp](writewhileislepp)
+- 📝 I regularly write articles on [writewhileislepp](www.writewhileislepp.vercel.app)
 
 -  Ask me about **anything:D**
 
 -  How to reach me **heheo1950@gmail.com**
 
--  Know about my experiences [https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing](https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing)
+-  Know about my experiences [resume](https://drive.google.com/file/d/1z9Ur_u3szviWFSz_M5wxuaOQPnzPja0Z/view?usp=sharing)
 
 - ⚡ Fun fact **Iam a Lego**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/anthropogenic_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropogenic_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mridul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridul hasan" height="30" width="40" /></a>
-<a href="https://instagram.com/mrhio_oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrhio_oo" height="30" width="40" /></a>
+<a href="https://instagram.com/mrhos_oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrhio_oo" height="30" width="40" /></a>
 <a href="https://discord.gg/UPm4HGkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UPm4HGkc" height="30" width="40" /></a>
 </p>
 
