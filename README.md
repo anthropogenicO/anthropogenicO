@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **a lot of thing tbh**
 
--  Go there [Mrhio](mridul.sopdad.com/links)
+-  Go there [Mrhio](https://mridul.sopdad.com/links)
 
 -  Ask me about **anything:D**
 
